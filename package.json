@@ -28,7 +28,7 @@
     "wordfilter": "^0.2.6"
   },
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.11.0"
   },
   "repository": {
     "type": "git",
